@@ -7,4 +7,6 @@ Os principais comandos utilizados para gerenciar o versionamento de código do p
  git commit -m, git log, git show,  git remote add origin, git remote -v,  git push -u origin master,
  git pull
 
+
 lembrei do comando: git commit
+lembrei do comando: git status
