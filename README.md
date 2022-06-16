@@ -10,3 +10,6 @@ Os principais comandos utilizados para gerenciar o versionamento de código do p
 
 lembrei do comando: git commit
 lembrei do comando: git status
+
+lembrei do comando: git push
+lembrei do comando: git pull
