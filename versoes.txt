@@ -1,3 +1,5 @@
 Arquivo inicial para demonstrar o versionamento.
 
-Alteração do arquivo
+Alteração do arquivo.
+
+Alterando o arquivo versoes.txt para depois executar o git pull.
