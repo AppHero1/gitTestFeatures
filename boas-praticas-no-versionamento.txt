@@ -1,0 +1,13 @@
+Boas práticas de versionamento: 
+1- A cada commit adicionar um comentário que que explique o que foi feito de forma clara, simples e objetiva para a equipe possa saber o que foi feito sem precisar abrir o arquivo; 
+2 - Sempre criar o arquivo README.md, pois nesse arquivo você pode documentar e descrever o seu projeto, servindo para lembrá-lo e a equipe do que precisa ser feito para concluí-lo, além de servir como uma vitrine para o seu trabalho; 
+3 - Sempre criar o arquivo .gitignore, pois sempre haverá código que não está funcionando, está em testes, precisa ser revisado, etc. e por isso não deve ser monitorado e publicado; 
+4- Se tiver qualquer dúvida em relação ao commit atual, verificar o que foi alterado com o git show antes do git push; 
+5- Antes de tudo, trazer as alterações que estão no GitHub para o seu repositório local, este passo é imprescindível para impossibilitar, principalmente, a repetição, os conflitos e a osciosidade de trabalho.
+6- É responsabilidade da equipe sempre verificar se o código foi compilado sem erros antes de realizar os commits de suas alterações.
+7- Ao realizar um commit depois de uma operação de merge, escreva uma mensagem descritiva explicando o que foi integrado.
+8- Nunca atuar diretamente sobre o tronco principal (master), apenas em ramificações paralelas (branches). E nomear a branch com uma descrição simples e concisa que represente a tarefa realizada naquela branch. De preferência pode ser adicionado Tokens que ajude a melhor identificação da branch, como por exemplo: feature-"nome" para novas funcionalidades, bug-"nome" para correção e mesclagem, hotfix-"nome" para uma ação imediata sobre um comportamento indesejado do sistema.
+9- Manter o trabalho organizado, com pastas especificas para cada coisa ex: pasta data/ para dados e script/ para os codigos, assim os colaboradores não perderão tempo tentando entender o que é cada coisa.
+10-  Minimizar a quantidade de repositórios por projeto ao máximo. Muitas aplicações por projeto costumam causar confusão;
+11- Nunca realize commit direto na Main. Essa prática poderá facilmente ocasionar em perca de código quando você atuar em conjunto com outros desenvolvedores. Utilize a criação de branchs.
+12- Além das práticas acima, uma outra prática muito boa é usar a técnica GitFlow, ou seja, criar branches paralelas a main especificando fases do projeto como por exemplo criar as branches: Login, Hotfix, Bugs, Development, Release, Feature1, Feature2, etc. Assim podemos codificar, tratar arquivos específicos em branches específicas para depois fazer um merge mais conciso e correto, livre de bugs, etc.
