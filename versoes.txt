@@ -5,3 +5,7 @@ Alteração do arquivo.
 Alterando o arquivo versoes.txt para depois executar o git pull.
 
 Alterando o arquivo local versoes.txt para fazer o push e verificar se o responsável local aparece no GitHub.
+
+Editando o arquivo direto no Vim.
+
+Modeficado na branch develop.
