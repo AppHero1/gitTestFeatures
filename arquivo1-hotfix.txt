@@ -1,0 +1,6 @@
+1 //Arquivo para correções rápidas
+2 linha de codigo
+3 linha de codigo
+4 linha de codigo corrigida
+5 linha de codigo corrigida
+6 linha de codigo
