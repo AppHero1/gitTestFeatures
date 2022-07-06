@@ -21,3 +21,5 @@ lembrei do comando: git pull
 Alterando o arquivo para depois executar o git pull.
 
 Alterando o arquivo local README.md para fazer o push e verificar se o responsável local aparece no GitHub.
+
+Tecnologias: Muito GitBash e GitHub.
