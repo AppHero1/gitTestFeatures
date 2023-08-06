@@ -1,6 +1,6 @@
 # Git/GitHub Feature Tests
 
-This project aims to train the use of file versioning using git/github.
+This project aims to train the use of file versioning using git/GitHub.
 
 The main commands used to manage project code versioning are:
 
@@ -13,7 +13,7 @@ command: git commit
 command: git status
 
 command: git push
-from command: git pull
+from the command: git pull
 
 Changing the file to later run git pull.
 
