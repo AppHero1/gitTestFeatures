@@ -1,7 +1,4 @@
-# senai-versoes-colaboracoes
-Repositório de versões e colaborações.
-
-Readme de exemplo.
+# Testes de Funcionalidades do Git/GitHub
 
 Este projeto tem o objetivo de treinar o uso do versionamento de software git/github.
 
@@ -12,11 +9,11 @@ Os principais comandos utilizados para gerenciar o versionamento de código do p
  git pull
 
 
-lembrei do comando: git commit
-lembrei do comando: git status
+comando: git commit
+comando: git status
 
-lembrei do comando: git push
-lembrei do comando: git pull
+comando: git push
+do comando: git pull
 
 Alterando o arquivo para depois executar o git pull.
 
