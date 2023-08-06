@@ -1,6 +1,6 @@
-# Testes de Funcionalidades do Git/GitHub
+# Testes de Funcionalidades Git/GitHub
 
-Este projeto tem o objetivo de treinar o uso do versionamento de software git/github.
+Este projeto tem o objetivo de treinar o uso do versionamento de arquivos usando git/github.
 
 Os principais comandos utilizados para gerenciar o versionamento de código do projeto são:
 
